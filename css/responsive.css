@@ -1,0 +1,156 @@
+
+@media only screen and (max-width: 1200px) {
+	.wrapper { max-width: 1000px; }
+	#header .topheader .menu-primary-menu-container li a { padding: 10px 13px; }
+	#header .topheader .menu-primary-menu-container li { padding-left: 3px; }
+	#header .topheader .search-left { padding: 5px 0; }
+	#header .topheader .searchform input[type="text"] { height: 37px; }
+	#header .topheader .searchform #searchsubmit { width: 37px; height: 37px; }
+	#header .logo { max-width: 90px; margin: 0px; }
+	#header .middleheader { padding: 25px 0; }
+	.menuBox li a { padding: 16px 10px; }
+	#content-part { padding: 30px 0 50px; }
+	.menuBox li { font-size: 14px; padding: 0px; }
+	#left-part .widget { padding: 15px 20px 20px; margin-bottom: 25px; }
+	.home-slider-bar { padding: 20px; }
+	.news-bar { margin-top: 25px; padding: 15px 20px 20px; }
+	.news-bar li h3 { font-size: 15px; line-height: 20px; padding: 0px; }
+	.news-bar li:first-child h3 { font-size: 22px; line-height: 26px; padding-bottom: 10px; }
+	.video-bar { padding: 15px 20px 20px; }
+	.video-bar .video-slider h3 { font-size: 15px; line-height: 20px; }
+	#left-part .widget input.wysija-input { height: 45px; line-height: 45px; }
+	.widget_wysija_cont .wysija-submit { height: 45px; }
+	.news-bar li { padding: 25px 0 0 10px; }
+	#footer .copyright-bar { padding: 15px 0; margin-top: 10px; }
+	#footer .two .widget_nav_menu ul li { padding-bottom: 5px; }
+	.breadcrumbs { margin-bottom: 20px; padding: 12px 15px 15px; }
+	ol li { padding-bottom: 5px; }
+	#content-part .wp-pagenavi { margin-top: 20px; padding: 15px 20px; }
+	.popular-posts li { padding-top: 15px; }
+	h1 { font-size: 27px; line-height: 33px; }
+	.popular-posts li .wpp-post-title { font-size: 12px; line-height: 16px; }
+	#header .topheader .menu-primary-menu-container li { font-size: 14px; }
+}
+
+
+@media only screen and (max-width: 1023px) {
+	.wrapper { max-width: 728px; }
+	
+	#header .topheader .menu-primary-menu-container li { font-size: 11px; line-height: 22px; padding-left: 0px; }
+	#header .topheader .menu-primary-menu-container li a { padding: 12px 9px; }
+	#header .middleheader .widget img { max-height: 70px; width: auto; }
+	#header .logo { max-width: 70px; }
+	#header .middleheader { padding: 20px 0; }
+	.menuBox li a { padding: 16px 7px; }
+	#content-part { padding: 25px 0 30px; }
+	#left-part .widget .widgettitle { font-size: 17px; line-height: 22px; }
+	.menuBox li { font-size: 10px; line-height: 18px; }
+	h3 { padding-bottom: 10px; }
+	#left-part .widget { padding: 10px 15px 15px; margin-bottom: 20px; }
+	.popular-posts img { margin: 0 0 0 15px; max-width: 70px; }
+	.popular-posts li .wpp-post-title { font-size: 9px; line-height: 13px; }
+	html, body { font-size: 15px; line-height: 20px; }
+	#left-part .widget input.wysija-input { font-size: 15px; height: 40px; }
+	.widget_wysija_cont .wysija-submit { height: 40px; line-height: 40px; }
+	.wpp-list li { padding-top: 12px; }
+	#footer .one .social a { font-size: 19px; margin: 0 5px; }
+	h3 { padding-bottom: 10px; font-size: 17px; line-height: 23px; }
+	#footer .one .footer-logo { max-width: 80px; }
+	#footer .one .social { padding: 30px 0 0; }
+	#footer .copyright-bar { margin-top: 5px; }
+	.home-slider-bar .home-item h2 { font-size: 16px; line-height: 20px; }
+	.home-slider-bar .home-item .text { padding: 0 15px 20px; }
+	.home-slider-bar .home-item .btn { margin-bottom: 15px; }
+	.slick-arrow { width: 40px; height: 40px; margin-top: -20px; background-size: 15px auto; }
+	.home-slider-bar .home-item { height: 350px; }
+	.news-bar li:first-child img { max-width: 200px; margin-left: 15px; }
+	.news-bar li:first-child h3 { font-size: 17px; line-height: 23px; padding-bottom: 5px; }
+	.news-bar li img { max-width: 90px; margin: 0 0 0 15px; }
+	.news-bar li h3 { font-size: 12px; line-height: 15px; }
+	.news-bar li { padding: 18px 0 0 8px; }
+	.date_mete { font-size: 12px; line-height: 15px; }
+	.news-bar h2 { font-size: 20px; line-height: 26px; }
+	.date_mete { padding: 5px 0; }
+	.news-bar { margin-top: 20px; }
+	.video-bar { margin-top: 20px; padding: 15px 20px 20px; }
+	.video-bar h2 { font-size: 20px; line-height: 26px; margin-bottom: 20px; }
+	.video-bar .video-slider h3 { font-size: 13px; line-height: 17px; padding: 12px 0 0; }
+	.video-bar .video-item .play-btn { background-size: 40px auto; }
+	.video-bar .video-item { margin-right: 15px; }
+	.video-bar .video-slider { margin-right: -15px; }
+	h1 { font-size: 25px; line-height: 28px; padding-bottom: 12px; margin-bottom: 18px; }
+	.alignright, .alignleft, .alignnone { max-width: 50%; }
+	p { padding-bottom: 20px; }
+	.commonBox .hentry img { max-width: 150px; margin: 5px 0 6px 20px; }
+	.commonBox .hentry p { font-size: 14px; line-height: 20px; }
+	.commonBox .hentry h2 { font-size: 18px; line-height: 24px; }
+	.commonBox { padding: 15px 20px 20px; }
+	#content-part .wp-pagenavi { padding: 10px 20px; }
+	#content-part .wp-pagenavi a, #content-part .wp-pagenavi span { font-size: 13px; width: 35px; height: 35px; line-height: 32px; }
+	h2 { font-size: 22px; line-height: 26px; padding-bottom: 5px; }
+	.widget.widget_execphp .social a { font-size: 24px; line-height: 75px; height: 75px; }
+	.widget.widget_execphp .social a .fa { line-height: 75px; }
+	#header .topheader .searchform.open input[type="text"] { width: 150px; }
+ }
+
+@media only screen and (max-width: 767px) {
+	.wrapper { max-width: 100%; padding-left: 0px; padding-right: 0px; }
+	#left-part, #right-part, #footer .one, #footer .two { width: 100%; float: none; }
+	#footer .two .widget_nav_menu { display: none; }
+	#footer .two .widget_text { width: 100%; float: none; }
+	#footer .copyright-bar .widget_text, #footer .copyright-bar .widget_text + .widget_text { float: none; }
+	#back-to-top { display: block; }
+	#header .middleheader .widget { display: none; }
+	#header .logo { float: none; margin: 0 auto; display: block; max-width: 100px; }
+	#header .middleheader { padding: 22px 0; }
+	#content-part { padding: 25px 0; }
+	#left-part .widget.widget_wysija { margin-bottom: 0px; }
+	#footer .one .social a { margin: 0 9px; }
+	#footer .one .social { padding: 25px 0 0; }
+	#header .topheader .menu-primary-menu-container { display: none; }
+	.menuBox { display: none; }  
+	#header .logo { max-width: 80px; }
+	#header .middleheader { padding: 15px 0; }
+	#header .wrapper { padding: 0 20px; }
+	.home-slider-bar { padding: 0px; } 
+	.news-bar li img { float: none; margin: 0 0 10px; width: 100%; max-width: 100%;  }
+	.news-bar li h3 { font-size: 15px; line-height: 20px; }
+	.news-bar li:first-child img { margin: 0px 0 10px; width: 100%; max-width: 100%; }
+	.news-bar li { padding: 20px 7px 0; }
+	.news-bar ul { margin: 0 -7px; width: auto; }
+	#left-part { margin-top: 20px; }
+	#left-part .widget { padding: 20px; }
+	#footer .one { padding: 0px; }
+	#footer .two .widget_text { padding: 20px 20px 0; }
+	#footer .copyright-bar { padding: 15px 20px; text-align: center; }
+	.breadcrumbs { font-size: 14px; line-height: 18px; padding: 12px 15px; margin-bottom: 15px; }
+	h1 { font-size: 22px; line-height: 28px; }
+	.commonBox .hentry { padding: 15px; }
+	.wp-caption p.wp-caption-text { padding: 6px 10px !important; }
+	.blogpage .blogdetails .hentry p { padding-bottom: 15px; }
+	a.menuToggle { display: block; }
+	.menuBox li { float: none; display: block; font-size: 16px; line-height: 20px; }
+	.menuBox ul { margin: 0 -20px; }
+	.menuBox li a { padding: 14px 20px; }
+	.popular-posts li .wpp-post-title { font-size: 12px; line-height: 15px; }
+}
+
+@media only screen and (max-width: 639px) {
+
+}
+
+@media only screen and (max-width: 479px) {
+	
+	.alignright, .alignleft, .alignnone { max-width: 100%; margin: 0 0 15px !important; width: 100% !important; float: none; }
+	.commonBox .hentry img { max-width: 100%; margin: 5px 0 10px; float: none; width: 100%; }
+	
+}	
+
+@media only screen and (min-width: 768px) {
+.mm-menu.mm-current { display: none !important; }
+html.mm-opening .mm-slideout { transform: translate(0px, 0px) !important; -webkit-transform: translate(0px, 0px) !important; }
+html.mm-opened { overflow: visible !important; }
+html.mm-opened body { overflow: visible !important; }
+#mm-blocker { display: none !important; }
+.blogsidebar ul { display: block !important; }
+}
