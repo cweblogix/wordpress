@@ -20,3 +20,6 @@ Left section come from widget area.
 <li>WordPress Popular Posts</li>
 <li>WP-PageNavi</li>
 </ul>
+
+<h2>Example</h2>
+<a href="http://clientuat.com/news/" target="_blank">http://clientuat.com/news/</a>
